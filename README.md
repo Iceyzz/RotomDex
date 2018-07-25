@@ -1,0 +1,2 @@
+# RotomDex
+Discord bot
