@@ -27,7 +27,6 @@
 | #unban (Ex. #unban 154780933646581760)  |  Used to unban a user based off their user ID. Must have required permissions to unban users for this command to work.   |
 | #server   | Displays Server owner tag, number of members, number of channels, number of roles, Server Region, ID, and creation date.   |
 | #channel   | Displays channel name, ID, Type, Topic, and creation date.   |
-| #contact  | Provides the details to get into contact with the developers of RotomDex directly.   |
 | #purge (Ex. #purge 100)  | Removes given number of messages between 1-100 at a time.  |
 | #addinsult (Ex. #addinsult become a president so soomeone can make a sequel to JFK.)  | Adds user given insults into a database for the bot to use.  |
 | #insult (Ex. #insult, #insult @user)  |  Randomly selects a insult from the database of user created insults.  |
