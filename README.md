@@ -24,7 +24,7 @@
 | #kick (Ex. #kick @Icey)  | Kicks a given user. Must have permission to kick users for the command to work.  |
 | #checkbans   | Lists every single banned user from the server. Must have admin permissions for the command to work.   |
 | #unban (Ex. #unban 154780933646581760)  |  Used to unban a user based off their user ID. Must have required permissions to unban users for this command to work.   |
-| #server   | Displays Server owner tag, number of members, number of channels, number of roles, Server Region, ID, and creation date.   |
+| #server   | Displays Server owner tag, number of members and a paste.ee of all members in the server, number of channels, number of roles, Server Region, Server nitro level, and creation date.   |
 | #purge (Ex. #purge 100)  | Removes given number of messages between 1-100 at a time.  |
 | #addinsult (Ex. #addinsult become a president so someone can make a sequel to JFK.)  | Adds user given insults into a database for the bot to use.  |
 | #insult (Ex. #insult, #insult @user)  |  Randomly selects a insult from the database of user created insults.  |
