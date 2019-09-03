@@ -29,3 +29,6 @@
 | #addinsult (Ex. #addinsult become a president so someone can make a sequel to JFK.)  | Adds user given insults into a database for the bot to use.  |
 | #insult (Ex. #insult, #insult @user)  |  Randomly selects a insult from the database of user created insults.  |
 | #help   | Provides a link to RotomDex's development server, a link back to here, and the main dev's discord tag. Icey#4617    |
+
+9/3/2019 OUTDATED 
+Refresh update coming within the next 48 hours
