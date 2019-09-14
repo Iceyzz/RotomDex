@@ -5,10 +5,9 @@
 | #info (Ex. #info, #info @user)   | Displays Nickname, Game, Status, Roles, Account creation date, and server join date.   |
 | #instagram (Ex. #instagram nike) | Displays latest post, caption for latest post, follow/follower count, handle, and PFP  | 
 | #pokedex Ex. (#pikachu, #mmewtwo, #aegislash) | Gives brief summary and overlook of a pokemon. For Megas, use m(pokemon name). 
-| #random   | Randomly selects one of the 807 current Pokemon.   |
+| #random Ex. (#random 6)  | Randomly selects Pokemon using the given number. If not set, defaults to 1.   |
 | #which   | Picks between two user-given options. Example: "#which red or blue"   |
 | #metronome   | Randomly selects one of the 707 current pokemon moves.   |
-| #6random   | Randomly selects 6 pokemon   |
 | #shiny pokemon (Ex. #shiny darkrai)   | Displays the shiny sprite of a given pokemon. #shiny rayquaza would display a shiny and normal form rayquaza.   |
 | #rps   | Rock, Paper, Scissors   |
 | #invite   | Provides the bot's invite link to be added into other servers.   |
