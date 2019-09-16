@@ -3,6 +3,7 @@
 | Command Syntax | Command information |
 | -------- | -------- |
 | #info (Ex. #info, #info @user)   | Displays Nickname, Game, Status, Roles, Account creation date, and server join date.   |
+| #tiktok (Ex. #tiktok KAT) | Displays following count, follower count, heart count, bio, and PFP  |
 | #instagram (Ex. #instagram nike) | Displays latest post, caption for latest post, follow/follower count, handle, and PFP  | 
 | #pokedex Ex. (#pikachu, #mmewtwo, #aegislash) | Gives brief summary and overlook of a pokemon. For Megas, use m(pokemon name). 
 | #random Ex. (#random 6)  | Randomly selects Pokemon using the given number. If not set, defaults to 1.   |
@@ -15,6 +16,7 @@
 | #full pokemon (Ex. #fullmewtwo) | DMs information on a pokemon including Damage chart, Stats Height, Weight, Type, Abilites, Classification, S.O.S. Claling, Gender ratio, Pokedex number, and Egg group |
 | #pinv   | View your pokemon collection.   |
 | #spinv  | View your shiny pokemon collection. |
+| #move (Ex. #move Flash cannon) | Returns a list of all Pokemon that can learn the given move. |
 | #ability (Ex. #ability Flame body) | Returns a list of all pokemon with the given ability.  |
 | #news   | Top 5 headlines from BBC News   |
 | #crypto (Ex. #crypto Bitcoin)  | Provides current coin data from CoinMarketCap.   |
