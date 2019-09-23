@@ -19,6 +19,7 @@
 | #move (Ex. #move Flash cannon) | Returns a list of all Pokemon that can learn the given move. |
 | #ability (Ex. #ability Flame body) | Returns a list of all pokemon with the given ability.  |
 | #news   | Top 5 headlines from BBC News   |
+| #weather (Ex. #weather Bakersfield, #weather new_york)  | Displays current weather data from Weatherbit.io API for current, next, and day after.  |
 | #crypto (Ex. #crypto Bitcoin)  | Provides current coin data from CoinMarketCap.   |
 | #time   | Displays the current time in 9 different timezones. PDT, CDT, EDT, JST, CEST, EAT, AEST, CST, BST   |
 | #set(switch, 3ds, xbox, psn, steam) (Ex. #setswitch, #set3ds)   | Stores your Friend Codes, Gamertags, and Names into the bot.  |
