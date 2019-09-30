@@ -3,7 +3,8 @@
 | Command Syntax | Command information |
 | -------- | -------- |
 | #info<br/> (#info, #info @user)   | Displays Nickname, Game, Status, Roles, Account creation date, and server join date.   |
-| #tiktok<br/> (#tiktok KAT) | Displays following count, follower count, heart count, bio, and PFP  |
+| #tiktok<br/> (#tiktok KAT) | Displays follow/follower count, heart count, bio, and PFP  |
+| #twitter<br/> (#twitter nike) | Displays latest post, follow/follower count, nickname, bio, and PFP  |
 | #instagram<br/> (#instagram nike) | Displays latest post, caption for latest post, follow/follower count, handle, and PFP  |
 | #twitch<br/> (#twitch callmecarsonlive)  | Displays follower count, following count, total views, bio, PFP, and partnership type.  |
 | #pokedex<br/> (#pikachu, #mmewtwo) | Gives brief summary and overlook of a pokemon. For Megas, use m(pokemon name). 
