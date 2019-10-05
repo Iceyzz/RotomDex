@@ -11,7 +11,8 @@
 | #random<br/> (#random 6)  | Randomly selects Pokemon using the given number. If not set, defaults to 1.   |
 | #which<br/> (#which red or blue)  | Picks between two user-given options.    |
 | #metronome   | Randomly selects one of the 707 current pokemon moves.   |
-| #shiny<br/> (#shiny darkrai)   | Displays the shiny sprite of a given pokemon. #shiny rayquaza would display a shiny and normal form rayquaza.   |
+| #shiny<br/> (#shiny darkrai)   | Displays the shiny sprite of a given pokemon. <br/> Example for megas: (#shiny mega metagross)  |
+| #img<br/> (#img darmanitan)   | Displays only the normal sprite of a given pokemon. <br/> Example for megas: (#img mega metagross)  |
 | #rps   | Rock, Paper, Scissors   |
 | #invite   | Provides the bot's invite link to be added into other servers.   |
 | #pokemon   | Catch a pokemon and add it to your collection! Shinies have a 1/8140 ratio of being found.   |
