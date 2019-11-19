@@ -1,5 +1,7 @@
 # RotomDex
 
+11/19/2019: ROTOMDEX WILL BE DOWN UNTIL THE FIRST WEEK OF DECEMBER DUE TO UNFORESEEN CIRCUMSTANCES, THE BOT WILL RETURN WITH UPDATED DATA INCLUDING SWORD AND SHIELD 
+
 | Command Syntax | Command information |
 | -------- | -------- |
 | #info<br/> (#info, #info @user)   | Displays Nickname, Game, Status, Roles, Account creation date, and server join date.   |
