@@ -1,6 +1,11 @@
 # RotomDex
 
-1/25/2019: GALAR IS HERE AND SO ARE FREQUENT TWEAKS AND UPATES TO ROTOMDEX
+1/29/2019 Update:
+Fixed female/male gender display for Galar
+Fixed ban list displaying nothing
+Added Galar to #full dex
+Pinv no longer has the weird issue of not flipping pages
+
 
 | Command Syntax | Command information |
 | -------- | -------- |
