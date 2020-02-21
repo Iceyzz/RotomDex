@@ -1,10 +1,6 @@
 # RotomDex
 
-1/29/2019 Update:
-Fixed female/male gender display for Galar
-Fixed ban list displaying nothing
-Added Galar to #full dex
-Pinv no longer has the weird issue of not flipping pages
+2-21-2020 last update
 
 
 | Command Syntax | Command information |
@@ -41,3 +37,4 @@ Pinv no longer has the weird issue of not flipping pages
 | #server   | Displays Server owner tag, number of members and a paste.ee of all members in the server, number of channels, number of roles, Server Region, Server nitro level, and creation date.   |
 | #purge<br/> (#purge 100)  | Removes given number of messages between 1-100 at a time.  |
 | #help   | Provides a link to RotomDex's development server, a link back to here, and the main dev's discord tag. Icey#4617    |
+| #update   | Provides a list of the most recent updates that have been made to the bot    |
