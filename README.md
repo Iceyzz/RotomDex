@@ -1,14 +1,12 @@
 # RotomDex
 
-2-21-2020 last update
-
-
 | Command Syntax | Command information |
 | -------- | -------- |
 | #info<br/> (#info, #info @user)   | Displays Nickname, Game, Status, Roles, Account creation date, and server join date.   |
 | #tiktok<br/> (#tiktok KAT) | Displays follow/follower count, heart count, bio, and PFP  |
 | #twitter<br/> (#twitter nike) | Displays latest post, follow/follower count, nickname, bio, and PFP  |
 | #instagram<br/> (#instagram nike) | Displays latest post, caption for latest post, follow/follower count, handle, and PFP  |
+| #reddit<br/> (#reddit memes) | Displays top 5 hottest post with author, title, and media in whichever subreddit the user defines  |
 | #twitch<br/> (#twitch callmecarsonlive)  | Displays follower count, following count, total views, bio, PFP, and partnership type.  |
 | #pokedex<br/> (#pikachu, #mmewtwo) | Gives brief summary and overlook of a pokemon. For Megas, use m(pokemon name). 
 | #random<br/> (#random 6)  | Randomly selects Pokemon using the given number. If not set, defaults to 1.   |
