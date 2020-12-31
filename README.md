@@ -1,4 +1,5 @@
 # RotomDex
+12-30-2020 UPDATE: I submitted ID and now RotomDex can continue to be added to servers!
 
 | Command Syntax | Command information |
 | -------- | -------- |
